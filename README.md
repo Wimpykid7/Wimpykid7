@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Wimpykid7
 - 👀 I’m interested in football 
-- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on projects where i can just learn
 - 📫 How to reach me my email
 
